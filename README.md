@@ -21,9 +21,12 @@ python hello.py
 
 ```
 Hello, World!
-What is your name? Jay
-Hello, Jay
-How old are you? 20
+What is your name?jay
+Hello,  jay!
+How old are you?20
 You are 20 years old.
-How are you feeling today?
+How are you feeling today?good
+You are feeling good today.
+What is your favorite color? orange
+Your favorite color is  orange.
 ```
